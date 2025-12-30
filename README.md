@@ -32,7 +32,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 ## My Projects
 Here are some of my favorite projects:
 
-### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://github.com/Kevin-Mugo/PowerBI/blob/main/Data%20professionals2.pbix) 
+### [Career Landscape of Data Professionals: A Power BI Analysis](https://github.com/Collins-Odhiambo-data/Collins_Odhiambo/blob/main/Data%20professionals2.pbix) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://github.com/Collins-Odhiambo-data/Collins_Odhiambo/blob/main/Data%20professionals2.pbix) 
 - **Description:** Cleaned and created an interactive Power BI dashboard to analyze survey data from data professionals, providing insights into job roles, salaries, work-life balance, and programming language preferences..
 - **Technologies:** PowerBI .
 - **Achievements:**
