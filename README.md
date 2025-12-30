@@ -8,7 +8,7 @@
 </div>
 
 ...
-![Profile Banner](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1651).png)
+![Profile Banner](https://github.com/Collins-Odhiambo-data/Collins_Odhiambo/blob/main/data%20analyst.jpg)
 
 <h2>
   Hi there
