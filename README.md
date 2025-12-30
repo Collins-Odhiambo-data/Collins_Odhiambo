@@ -13,7 +13,7 @@
 <h2>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> ,
-  I'm Kevin Mugo.
+  I'm Collins Odhiambo.
 </h2>
 
 Welcome to my profile! I'm a Computer Science graduate with a strong foundation in data analysis and data administration . I have hands-on experience with various data-driven projects and a passion for leveraging data to drive insights and decision-making.
@@ -25,7 +25,7 @@ Welcome to my profile! I'm a Computer Science graduate with a strong foundation 
 - 🔭 I’m currently working on data analysis and administration projects for real-world applications.
 - 🌱 I’m currently learning machine learning and artificial intelligence .
 - 💬 Ask me about data analysis, machine learning, and data visualization and artificial intelligence.
-- 📫 How to reach me: [mugokevin900@gmail.com](mailto:mugokevin900@gmail.com)
+- 📫 How to reach me: [odhiambocollins753@gmail.com](mailto:odhiambocollins753@gmail.com)
   
   
 
