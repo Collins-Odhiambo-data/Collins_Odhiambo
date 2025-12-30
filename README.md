@@ -41,8 +41,7 @@ Here are some of my favorite projects:
   - Identified Python as the most popular programming language among respondents, with over 400 votes.
   - Revealed that 42.7% of respondents found it challenging to break into the data field, providing a comprehensive view of entry barriers.
     
-![  ](https://github.com/Kevin-Mugo/Kevin-Mugo/blob/main/Screenshot%20(1643).png)
-
+![  ](https://github.com/Collins-Odhiambo-data/Collins_Odhiambo/blob/main/PowerBI.png)
 ### [ Purchasing Patterns:  Interactive Dashboard Analysis in Excel](https://1drv.ms/x/c/3ac3ef37014b10a0/Ee2u2gM8MKJDpx_ZYtclKKYBK9SubLXRTxI0y2G2GuG8Bg?e=2nJka3) [![View Project](https://img.shields.io/badge/View%20Project-Click%20Here-blue)](https://1drv.ms/x/c/3ac3ef37014b10a0/Ee2u2gM8MKJDpx_ZYtclKKYBK9SubLXRTxI0y2G2GuG8Bg?e=2nJka3) 
 - **Description:** Cleaned the dataset, created pivot tables, and developed an interactive Excel dashboard to analyze bike purchasing trends across demographics such as income levels, age, commute distance, and region.
 - **Technologies:** Excel, Pivot Tables, Data Visualization.
